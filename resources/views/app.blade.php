@@ -12,9 +12,9 @@
     <form method="post" action="/" class="flex rounded-md shadow-sm mb-6">
         <div class="relative flex flex-grow items-stretch focus-within:z-10">
             <input
-                type="email"
-                name="email"
-                id="email"
+                type="text"
+                name="task"
+                id="task"
                 class="block w-full rounded-none rounded-l-md border-gray-300 pl-6 focus:border-sky-700 focus:ring-indigo-500 sm:text-sm"
                 placeholder="New task"
                 title="Add new task"
