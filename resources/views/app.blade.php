@@ -18,6 +18,7 @@
                 class="block w-full rounded-none rounded-l-md border-gray-300 pl-6 focus:border-sky-700 focus:ring-indigo-500 sm:text-sm"
                 placeholder="New task"
                 title="Add new task"
+                maxlength="30"
             />
         </div>
         <button
